@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+}
+
+.ikone a {
+    padding: 10px;
+    text-decoration: none;
+    color: #000000;
+}
+.ikone a:hover {
+    color: green;
+}
+.ikone{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.logo img {
+    max-width: 300px;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+.gumbi{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 410px;
+    width: 100%;
+    max-width: 1920px;
+
+.donji{
+    display: flex;
+    justify-content: space-between;
+}
+}
+.desni{
+    display: flex;
+}
+
